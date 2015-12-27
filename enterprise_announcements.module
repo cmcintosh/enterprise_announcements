@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Enterprise Announcements feature.
+ */
+
+include_once 'enterprise_announcements.features.inc';
